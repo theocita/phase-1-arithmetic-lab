@@ -1,2 +1,8 @@
+let num1 = 2;
+let num2 = 31;
+let multiply = num1 * num2;
+console.log(multiply)
 
-// Write your code here
+function random(1,10){
+    return Math.floor(Number.isInteger(random) * )
+}
