@@ -3,10 +3,7 @@ let num2 = 31;
 let multiply = num1 * num2;
 console.log(multiply);
 
-let random = generateRandomInteger(max) {
-    return Math.floor(Math.random() * max) + 1;
-}
-
+let random = Math.floor(Math.random() * 10) + 1;
 
 let num3 = 6;
 let num4 = 2;
